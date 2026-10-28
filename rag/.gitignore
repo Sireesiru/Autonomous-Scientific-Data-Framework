@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+rag_env/
+venv/
+env/
+.env
+
+# Literature corpus
+*.pdf
+
+# Generated vector databases / knowledge bases
+scientific_kb/
+scientific_kb_sfr/
+*.index
+*.pkl
+
+# Runtime files
+*.log
+.DS_Store
